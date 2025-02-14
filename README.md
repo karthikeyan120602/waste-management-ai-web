@@ -1,3 +1,19 @@
+#Key Technologies:
+- Next.js 14: https://nextjs.org/
+- Drizzle ORM: https://orm.drizzle.team/
+- TailwindCSS: https://tailwindcss.com/
+- Google Gemini AI: https://ai.google.dev/
+- Web3Auth: https://web3auth.io/
+- Neon Database: https://neon.tech/
+
+# 📚 Project Highlights:
+- AI-assisted waste verification
+- User reward system for eco-friendly actions
+- Real-time waste collection task management
+- Interactive leaderboard for community engagement
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +50,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
